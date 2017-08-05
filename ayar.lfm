@@ -1,0 +1,26 @@
+object Form3: TForm3
+  Left = 1109
+  Height = 220
+  Top = 128
+  Width = 320
+  Caption = 'Ayarlar'
+  ClientHeight = 220
+  ClientWidth = 320
+  LCLVersion = '1.0.1.3'
+  object GroupBox1: TGroupBox
+    Left = 8
+    Height = 88
+    Top = 8
+    Width = 304
+    Caption = 'Bağlantı Ayarları'
+    TabOrder = 0
+  end
+  object GroupBox2: TGroupBox
+    Left = 8
+    Height = 105
+    Top = 104
+    Width = 305
+    Caption = 'Listeleme Ayarları'
+    TabOrder = 1
+  end
+end

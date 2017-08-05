@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="Kitaplik.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Kitaplik"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ana.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Ana"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="44" Y="9"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="verimodul.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dm"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="verimodul"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="44"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="ekle.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ekle"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="ayar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form3"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ayar"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="39" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="liste.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form4"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="liste"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="0" HistoryIndex="-1"/>
+  </ProjectSession>
+</CONFIG>
